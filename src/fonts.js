@@ -10,16 +10,16 @@ var fonts = {
   typeWriter: "font-family: Courier-New",
   brush_Script: "font-family: Brush-Script-MT",
   options: function(){
-    console.log("options:")
-    console.log("arial")
-    console.log("verdana")
-    console.log("helvetica")
-    console.log("tahoma")
-    console.log("trebuchet")
-    console.log("roman")
-    console.log("georgia")
-    console.log("garamond")
-    console.log("typeWriter")
-    console.log("brush_Script")
-  }
-}
+    console.log("options:");
+    console.log("arial");
+    console.log("verdana");
+    console.log("helvetica");
+    console.log("tahoma");
+    console.log("trebuchet");
+    console.log("roman");
+    console.log("georgia");
+    console.log("garamond");
+    console.log("typeWriter");
+    console.log("brush_Script");
+  };
+};
