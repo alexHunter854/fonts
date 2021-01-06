@@ -1,15 +1,15 @@
-function fonts(){
-  this.arial = "font-family: Arial"
-  this.verdana  = "font-family: Verdana"
-  this.helvetica = "font-family: Helvetica"
-  this.tahoma = "font-family: Tahoma"
-  this.trebuchet = "font-family: Trebuchet-MS"
-  this.roman = "font-family: Times-New-Roman"
-  this.georgia = "font-family: Georgia"
-  this.garamond = "font-family: Garamond"
-  this.typeWriter = "font-family: Courier-New"
-  this.brush_Script = "font-family: Brush-Script-MT"
-  this.options = function(){
+var fonts = {
+  arial: "font-family: Arial",
+  verdana: "font-family: Verdana",
+  helvetica: "font-family: Helvetica",
+  tahoma: "font-family: Tahoma",
+  trebuchet: "font-family: Trebuchet-MS",
+  roman: "font-family: Times-New-Roman",
+  georgia: "font-family: Georgia",
+  garamond: "font-family: Garamond",
+  typeWriter: "font-family: Courier-New",
+  brush_Script: "font-family: Brush-Script-MT",
+  options: function(){
     console.log("options:")
     console.log("arial")
     console.log("verdana")
